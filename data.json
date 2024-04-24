@@ -4,7 +4,7 @@
             "id": 1,
             "category": "action",
             "name": "Call of Duty: Warzone",
-            "thumbnail": "https://images.example.com/cod-warzone.jpg",
+            "thumbnail": "https://i.pinimg.com/originals/06/d3/1a/06d31a33e2f0b8e83d74aecd24f74a57.jpg",
             "downloads": "500.3",
             "description": "A free-to-play battle royale game developed by Infinity Ward and Raven Software. It features both multiplayer and battle royale gameplay modes."
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "category": "adventure",
             "name": "The Legend of Zelda: Breath of the Wild",
-            "thumbnail": "https://images.example.com/zelda-botw.jpg",
+            "thumbnail": "https://cdn.mos.cms.futurecdn.net/w3d5uV4DE3ZwQiu3cBhxii-1200-80.jpg",
             "downloads": "350.6",
             "description": "An action-adventure game developed and published by Nintendo for the Nintendo Switch and Wii U consoles. It is part of The Legend of Zelda series."
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "category": "strategy",
             "name": "Sid Meier's Civilization VI",
-            "thumbnail": "https://images.example.com/civ6.jpg",
+            "thumbnail": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVI_FiraxisGames_S1-2560x1440-2fcd1c150ac6d8cdc672ae042d2dd179.jpg",
             "downloads": "250.9",
             "description": "A turn-based strategy game developed by Firaxis Games and published by 2K Games. It is the sixth main installment in the Civilization series."
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "category": "simulation",
             "name": "The Sims 4",
-            "thumbnail": "https://images.example.com/sims4.jpg",
+            "thumbnail": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2014/05/The-Sims-4-1.jpg",
             "downloads": "400.2",
             "description": "A life simulation game developed by Maxis and published by Electronic Arts. It is the fourth major title in The Sims series."
         },
@@ -36,7 +36,7 @@
             "id": 5,
             "category": "puzzle",
             "name": "Portal 2",
-            "thumbnail": "https://images.example.com/portal2.jpg",
+            "thumbnail": "https://3.bp.blogspot.com/_o-6wV8a6eV4/TUKF2cZEDGI/AAAAAAAAAsA/XKKz90LAATk/s1600/Wallpaper02_1280x1024.jpg",
             "downloads": "150.5",
             "description": "A puzzle-platform game developed by Valve. It is the sequel to Portal (2007) and introduces new gameplay elements."
         },
@@ -44,7 +44,7 @@
             "id": 6,
             "category": "racing",
             "name": "Forza Horizon 5",
-            "thumbnail": "https://images.example.com/forza-horizon-5.jpg",
+            "thumbnail": "https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Forza%20Horizon%205%20E3.jpg?itok=DjEO5QbA",
             "downloads": "200.8",
             "description": "An open-world racing game developed by Playground Games and published by Xbox Game Studios. It is the fifth installment in the Forza Horizon series."
         },
@@ -52,7 +52,7 @@
             "id": 7,
             "category": "sports",
             "name": "FIFA 22",
-            "thumbnail": "https://images.example.com/fifa-22.jpg",
+            "thumbnail": "https://i2-prod.birminghammail.co.uk/incoming/article21158072.ece/ALTERNATES/s810/0_FIFA-22-pic.jpg",
             "downloads": "300.4",
             "description": "A football simulation video game published by Electronic Arts as part of the FIFA series. It is the 29th installment in the series."
         },
@@ -60,7 +60,7 @@
             "id": 8,
             "category": "fighting",
             "name": "Mortal Kombat 11",
-            "thumbnail": "https://images.example.com/mortal-kombat-11.jpg",
+            "thumbnail": "https://images.hdqwalls.com/wallpapers/mortal-kombat-11-4k-ye.jpg",
             "downloads": "180.6",
             "description": "A fighting game developed by NetherRealm Studios and published by Warner Bros. Interactive Entertainment. It is the eleventh main installment in the Mortal Kombat series."
         },
@@ -68,7 +68,7 @@
             "id": 9,
             "category": "platformer",
             "name": "Celeste",
-            "thumbnail": "https://images.example.com/celeste.jpg",
+            "thumbnail": "https://image.api.playstation.com/cdn/UP2120/CUSA11302_00/qHx7zoFGNn6BUHUOk2jSfBck2Zzbjulw.png",
             "downloads": "120.3",
             "description": "A platforming video game developed by Maddy Makes Games. It follows a young woman named Madeline as she climbs the titular Celeste Mountain, overcoming challenges and self-doubt."
         },
@@ -76,7 +76,7 @@
             "id": 10,
             "category": "sandbox",
             "name": "Minecraft",
-            "thumbnail": "https://images.example.com/minecraft.jpg",
+            "thumbnail": "https://en.cryptonomist.ch/wp-content/uploads/2021/03/The-Sandbox-Land.jpg",
             "downloads": "600.1",
             "description": "A sandbox video game developed by Mojang Studios. It allows players to build with a variety of different blocks in a 3D procedurally generated world, requiring creativity from players."
         }
